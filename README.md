@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jasmeenvkaur
-- 👀 I’m interested in data science and analytics
+- 👀 I’m interested in data engineering and analytics
 - 🌱 I’m currently learning Python and SQL
-- 💞️ I’m looking to collaborate on coding and DS projects 
+- 💞️ I’m looking to collaborate on coding and DE projects 
 - 📫 How to reach me; comment 
 
 <!---
